@@ -1,2 +1,2 @@
-DATABASE_NAME = "ineuron"
-COLLECTION_NAME = "car"
+DATABASE_NAME = "ineuron" #database name
+COLLECTION_NAME = "car" #collection name

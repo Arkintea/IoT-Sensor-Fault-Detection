@@ -107,17 +107,6 @@ MONGO DB URL:
 ```
 mongodb+srv://arkintea:<password>@sensor.cwezzhe.mongodb.net/?retryWrites=true&w=majority
 ```
-windows user
-
-```
-mongodb+srv://arkintea:<password>@sensor.cwezzhe.mongodb.net/?retryWrites=true&w=majority
-```
-
-Linux user
-
-```
-mongodb+srv://arkintea:<password>@sensor.cwezzhe.mongodb.net/?retryWrites=true&w=majority
-```
 
 then run 
 ```
